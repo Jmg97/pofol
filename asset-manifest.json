@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pofol/static/css/main.00018ae6.css",
-    "main.js": "/pofol/static/js/main.78ad1ecf.js",
+    "main.css": "/pofol/static/css/main.6caa6d9f.css",
+    "main.js": "/pofol/static/js/main.c0aadd11.js",
     "static/js/787.b11134e3.chunk.js": "/pofol/static/js/787.b11134e3.chunk.js",
     "index.html": "/pofol/index.html",
-    "main.00018ae6.css.map": "/pofol/static/css/main.00018ae6.css.map",
-    "main.78ad1ecf.js.map": "/pofol/static/js/main.78ad1ecf.js.map",
+    "main.6caa6d9f.css.map": "/pofol/static/css/main.6caa6d9f.css.map",
+    "main.c0aadd11.js.map": "/pofol/static/js/main.c0aadd11.js.map",
     "787.b11134e3.chunk.js.map": "/pofol/static/js/787.b11134e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00018ae6.css",
-    "static/js/main.78ad1ecf.js"
+    "static/css/main.6caa6d9f.css",
+    "static/js/main.c0aadd11.js"
   ]
 }
