@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pofol/static/css/main.eb8d6a8b.css",
-    "main.js": "/pofol/static/js/main.e32758a2.js",
-    "static/js/787.b11134e3.chunk.js": "/pofol/static/js/787.b11134e3.chunk.js",
-    "static/media/profile.jpg": "/pofol/static/media/profile.4494d945283d1279cce8.jpg",
-    "index.html": "/pofol/index.html",
-    "main.eb8d6a8b.css.map": "/pofol/static/css/main.eb8d6a8b.css.map",
-    "main.e32758a2.js.map": "/pofol/static/js/main.e32758a2.js.map",
-    "787.b11134e3.chunk.js.map": "/pofol/static/js/787.b11134e3.chunk.js.map"
+    "main.css": "/static/css/main.eb8d6a8b.css",
+    "main.js": "/static/js/main.14f6cfd6.js",
+    "static/js/787.b11134e3.chunk.js": "/static/js/787.b11134e3.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.4494d945283d1279cce8.jpg",
+    "index.html": "/index.html",
+    "main.eb8d6a8b.css.map": "/static/css/main.eb8d6a8b.css.map",
+    "main.14f6cfd6.js.map": "/static/js/main.14f6cfd6.js.map",
+    "787.b11134e3.chunk.js.map": "/static/js/787.b11134e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb8d6a8b.css",
-    "static/js/main.e32758a2.js"
+    "static/js/main.14f6cfd6.js"
   ]
 }
